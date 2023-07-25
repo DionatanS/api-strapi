@@ -35,6 +35,11 @@
     "priceCar": {
       "type": "string",
       "required": true
+    },
+    "sell": {
+      "type": "boolean",
+      "default": false,
+      "required": true
     }
   }
 }
